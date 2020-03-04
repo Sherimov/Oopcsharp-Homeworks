@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\bin\Debug\netcoreapp3.1\Traffic light.exe
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\bin\Debug\netcoreapp3.1\Traffic light.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\bin\Debug\netcoreapp3.1\Traffic light.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\bin\Debug\netcoreapp3.1\Traffic light.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\bin\Debug\netcoreapp3.1\Traffic light.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\bin\Debug\netcoreapp3.1\Traffic light.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\obj\Debug\netcoreapp3.1\Traffic light.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\obj\Debug\netcoreapp3.1\Traffic light.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\obj\Debug\netcoreapp3.1\Traffic light.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\obj\Debug\netcoreapp3.1\Traffic light.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-01\Homework-01\Traffic light\obj\Debug\netcoreapp3.1\Traffic light.pdb
