@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Calculator.pdb

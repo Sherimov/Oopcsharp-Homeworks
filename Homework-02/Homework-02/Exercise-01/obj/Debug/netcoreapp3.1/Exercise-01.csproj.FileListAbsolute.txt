@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Exercise-01.exe
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Exercise-01.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Exercise-01.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Exercise-01.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Exercise-01.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\bin\Debug\netcoreapp3.1\Exercise-01.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Exercise-01.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Exercise-01.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Exercise-01.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Exercise-01.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Exercise-01\obj\Debug\netcoreapp3.1\Exercise-01.pdb

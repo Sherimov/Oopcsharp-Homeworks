@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\bin\Debug\netcoreapp3.1\Average Number.exe
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\bin\Debug\netcoreapp3.1\Average Number.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\bin\Debug\netcoreapp3.1\Average Number.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\bin\Debug\netcoreapp3.1\Average Number.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\bin\Debug\netcoreapp3.1\Average Number.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\bin\Debug\netcoreapp3.1\Average Number.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\obj\Debug\netcoreapp3.1\Average Number.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\obj\Debug\netcoreapp3.1\Average Number.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\obj\Debug\netcoreapp3.1\Average Number.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\obj\Debug\netcoreapp3.1\Average Number.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Average Number\obj\Debug\netcoreapp3.1\Average Number.csprojAssemblyReference.cache

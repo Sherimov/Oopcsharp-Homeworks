@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\bin\Debug\netcoreapp3.1\Swap Numbers.exe
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\bin\Debug\netcoreapp3.1\Swap Numbers.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\bin\Debug\netcoreapp3.1\Swap Numbers.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\bin\Debug\netcoreapp3.1\Swap Numbers.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\bin\Debug\netcoreapp3.1\Swap Numbers.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\bin\Debug\netcoreapp3.1\Swap Numbers.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\obj\Debug\netcoreapp3.1\Swap Numbers.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\obj\Debug\netcoreapp3.1\Swap Numbers.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\obj\Debug\netcoreapp3.1\Swap Numbers.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\obj\Debug\netcoreapp3.1\Swap Numbers.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-02\Homework-02\Swap Numbers\obj\Debug\netcoreapp3.1\Swap Numbers.pdb
