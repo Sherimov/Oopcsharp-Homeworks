@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\obj\Debug\netcoreapp2.2\Homework03-G6.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\obj\Debug\netcoreapp2.2\Homework03-G6.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\obj\Debug\netcoreapp2.2\Homework03-G6.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\bin\Debug\netcoreapp2.2\Homework03-G6.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\bin\Debug\netcoreapp2.2\Homework03-G6.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\bin\Debug\netcoreapp2.2\Homework03-G6.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\bin\Debug\netcoreapp2.2\Homework03-G6.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\bin\Debug\netcoreapp2.2\Homework03-G6.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\obj\Debug\netcoreapp2.2\Homework03-G6.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Homework\obj\Debug\netcoreapp2.2\Homework03-G6.pdb
