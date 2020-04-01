@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\bin\Debug\netcoreapp3.1\Bonus exercise - Arrays.exe
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\bin\Debug\netcoreapp3.1\Bonus exercise - Arrays.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\bin\Debug\netcoreapp3.1\Bonus exercise - Arrays.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\bin\Debug\netcoreapp3.1\Bonus exercise - Arrays.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\bin\Debug\netcoreapp3.1\Bonus exercise - Arrays.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\bin\Debug\netcoreapp3.1\Bonus exercise - Arrays.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\obj\Debug\netcoreapp3.1\Bonus exercise - Arrays.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\obj\Debug\netcoreapp3.1\Bonus exercise - Arrays.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\obj\Debug\netcoreapp3.1\Bonus exercise - Arrays.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\obj\Debug\netcoreapp3.1\Bonus exercise - Arrays.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-03\Homework03\Bonus exercise - Arrays\obj\Debug\netcoreapp3.1\Bonus exercise - Arrays.pdb

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Bonus_exercise
 {
@@ -6,46 +7,104 @@ namespace Bonus_exercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Guess the number:");
-            int numberToGuess = 10;
-            while(true)
+            while (true)
             {
-                Console.WriteLine("Enter your guess: ");
-                int numberFromInput ;
-                bool checkNumberFromInput = int.TryParse(Console.ReadLine(), out numberFromInput);
-                if(!checkNumberFromInput)
+                Console.WriteLine("Guess the number");
+                Thread.Sleep(1000);
+                Console.WriteLine(
+                    "Select difficulty: " + " " + "Easy" + " " + "Normal" + " " + "Hard");
+                string setDifficulty = Console.ReadLine();
+                
+                int attempts = 0;
+                int numberOfTries = 0;
+                Random randomNumberGenerated = new Random();
+                int numberToGuess = 0;
+                if (setDifficulty.ToLower() == "easy")
                 {
-                    Console.WriteLine("You have entered a character !");
-                    break;
+                    numberOfTries = 8;
+                    numberToGuess = randomNumberGenerated.Next(0, 100);
+                    Console.WriteLine("You have 9 tries, and should guess the number from 0 to 100 !");
+                    Thread.Sleep(500);
                 }
-                if(numberFromInput == numberToGuess)
+                if (setDifficulty.ToLower() == "normal")
                 {
-                    Console.WriteLine("Nailed it. Number entered: " + numberToGuess );
-                    break;
+                    numberOfTries = 6;
+                    numberToGuess = randomNumberGenerated.Next(0, 500);
+                    Console.WriteLine("You have 7 tries, and should guess the number from 0 to 500 !");
+                    Thread.Sleep(500);
                 }
-                else if(numberFromInput > numberToGuess)
+                if (setDifficulty.ToLower() == "hard")
                 {
-                    if(numberToGuess * 2 < numberFromInput) 
+                    numberOfTries = 4;
+                    numberToGuess = randomNumberGenerated.Next(0, 1000);
+                    Console.WriteLine("You have 5 tries, and should guess the number from 0 to 1000 !");
+                    Thread.Sleep(500);
+                }
+                while (true)
+                {
+                    if (attempts > numberOfTries)
                     {
-                        Console.WriteLine("Your guess is far to high, number entered: " + numberFromInput);
+                        Console.WriteLine("Game over");
+                        break;
                     }
-                    else
-                    {
-                        Console.WriteLine("Your guess is a little bit higher, number entered: " + numberFromInput);
-                    }
+                    Console.WriteLine("Enter your guess: ");
+                    int inputNumber;
+                    bool checkNumberFromInput = int.TryParse(Console.ReadLine(), out inputNumber);
+                   if (!checkNumberFromInput)
+                   {
+                        Console.WriteLine("You have entered a character !");
+                        continue;
+                   }
+                   if (numberToGuess == inputNumber && attempts == 0)
+                   {
+                        Console.WriteLine("Lucky Guess " + numberToGuess);
+                        break;
+                   }
+                   if (numberToGuess == inputNumber)
+                   {
+                        Console.WriteLine("Nailed it. Number entered: " + numberToGuess);
+                        break;
+                   }
+                   if (numberToGuess * 2 < inputNumber)
+                   {
+                       attempts++;
+                       Console.WriteLine("Your guess is far to high, number entered: " + inputNumber);
+                       continue;
+                   }
+                   if (numberToGuess < inputNumber)
+                   {
+                       attempts++;
+                       Console.WriteLine("Your guess is a little bit higher, number entered: " + inputNumber);
+                       continue;
+                   }
+                   if (numberToGuess / 2 > inputNumber)
+                   {
+                       attempts++;
+                       Console.WriteLine("Your guess is far to low, number entered: " + inputNumber);
+                       continue;
+                   }
+                   if (numberToGuess > inputNumber)
+                   {
+                       attempts++;
+                       Console.WriteLine("Your guess is a little bit lower, number entered: " + inputNumber);
+                       continue;
+                   }
+                }
+                
+                Console.WriteLine("Do you want to restart the game ? (y/n)");
+                string answer = Console.ReadLine();
+                if(answer.ToLower() == "y")
+                {
+                    continue;
                 }
                 else
                 {
-                    if(numberToGuess / 2 > numberFromInput)
-                    {
-                        Console.WriteLine("Your guess is far to low, number entered: " + numberFromInput);
-                    }
-                    else
-                    {
-                        Console.WriteLine("Your guess is a little bit lower, number entered: " + numberFromInput);
-                    }
+                    break;
                 }
             }
+           
+            
+          
             Console.ReadLine();
         }
     }
