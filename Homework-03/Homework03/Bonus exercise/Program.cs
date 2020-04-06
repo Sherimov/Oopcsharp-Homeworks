@@ -11,51 +11,57 @@ namespace Bonus_exercise
             {
                 Console.WriteLine("Guess the number");
                 Thread.Sleep(1000);
-                Console.WriteLine(
-                    "Select difficulty: " + " " + "Easy" + " " + "Normal" + " " + "Hard");
+                Console.WriteLine("Select difficulty:\nEasy\nNormal\nHard");
                 string setDifficulty = Console.ReadLine();
                 
-                int attempts = 0;
+                int attempts = 1;
                 int numberOfTries = 0;
                 Random randomNumberGenerated = new Random();
                 int numberToGuess = 0;
+                int maxNumber;
+                string message = "You have {0} tries, and should guess the number from 0 to {1} !";
+
                 if (setDifficulty.ToLower() == "easy")
                 {
-                    numberOfTries = 8;
-                    numberToGuess = randomNumberGenerated.Next(0, 100);
-                    Console.WriteLine("You have 9 tries, and should guess the number from 0 to 100 !");
+                    numberOfTries = 9;
+                    maxNumber = 100;
+                    numberToGuess = randomNumberGenerated.Next(0, maxNumber);
+                    Console.WriteLine(string.Format(message, numberOfTries, maxNumber) );
                     Thread.Sleep(500);
                 }
                 if (setDifficulty.ToLower() == "normal")
                 {
-                    numberOfTries = 6;
-                    numberToGuess = randomNumberGenerated.Next(0, 500);
-                    Console.WriteLine("You have 7 tries, and should guess the number from 0 to 500 !");
+                    numberOfTries = 7;
+                    maxNumber = 500;
+
+                    numberToGuess = randomNumberGenerated.Next(0, maxNumber);
+                    Console.WriteLine(string.Format(message, numberOfTries, maxNumber));
                     Thread.Sleep(500);
                 }
                 if (setDifficulty.ToLower() == "hard")
                 {
-                    numberOfTries = 4;
-                    numberToGuess = randomNumberGenerated.Next(0, 1000);
-                    Console.WriteLine("You have 5 tries, and should guess the number from 0 to 1000 !");
+                    numberOfTries = 5;
+                    maxNumber = 1000;
+                    numberToGuess = randomNumberGenerated.Next(0, maxNumber);
+                    Console.WriteLine(string.Format(message, numberOfTries, maxNumber));
+
                     Thread.Sleep(500);
                 }
-                while (true)
+                while (attempts <= numberOfTries)
                 {
-                    if (attempts > numberOfTries)
-                    {
-                        Console.WriteLine("Game over");
-                        break;
-                    }
+                    //if (attempts > numberOfTries)
+                    //{
+                    //    Console.WriteLine("Game over");
+                    //    break;
+                    //}
                     Console.WriteLine("Enter your guess: ");
-                    int inputNumber;
-                    bool checkNumberFromInput = int.TryParse(Console.ReadLine(), out inputNumber);
-                   if (!checkNumberFromInput)
+                    //bool checkNumberFromInput = int.TryParse(Console.ReadLine(), out int inputNumber);
+                   if (!int.TryParse(Console.ReadLine(), out int inputNumber))
                    {
                         Console.WriteLine("You have entered a character !");
                         continue;
                    }
-                   if (numberToGuess == inputNumber && attempts == 0)
+                   if (numberToGuess == inputNumber && attempts == 1)
                    {
                         Console.WriteLine("Lucky Guess " + numberToGuess);
                         break;
@@ -90,7 +96,8 @@ namespace Bonus_exercise
                        continue;
                    }
                 }
-                
+                Console.WriteLine("Game over");
+
                 Console.WriteLine("Do you want to restart the game ? (y/n)");
                 string answer = Console.ReadLine();
                 if(answer.ToLower() == "y")

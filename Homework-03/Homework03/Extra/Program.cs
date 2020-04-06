@@ -9,10 +9,10 @@ namespace Extra
 
             #region Task 1
             Console.WriteLine("Enter a number:");
-            int numberFromInput;
-            bool checkNumberFromInput = int.TryParse(Console.ReadLine(), out numberFromInput);
-            int[] arrayOfNumberInput = new int[] { };
-            if (!checkNumberFromInput)
+            //int numberFromInput;
+            //bool checkNumberFromInput = int.TryParse(Console.ReadLine(), out numberFromInput);
+            //int[] arrayOfNumberInput = new int[] { };
+            if (!int.TryParse(Console.ReadLine(), out int numberFromInput))
             {
                 Console.WriteLine("Enter a number: ");
                 if (numberFromInput < 2)
@@ -20,13 +20,13 @@ namespace Extra
                     Console.WriteLine("number must be bigger than 2");
                 }
             }
-            for (int i = 0; i <= numberFromInput; i++)
+            for (int i = 1; i < numberFromInput; i++)
             {
-                Array.Resize(ref arrayOfNumberInput, arrayOfNumberInput.Length + 1);
-                arrayOfNumberInput[arrayOfNumberInput.Length - 1] = i;
-                if (arrayOfNumberInput[i] % 3 == 0)
+                //Array.Resize(ref arrayOfNumberInput, arrayOfNumberInput.Length + 1);
+                //arrayOfNumberInput[arrayOfNumberInput.Length - 1] = i;
+                if (i % 3 == 0)
                 {
-                    Console.WriteLine("Printing numbers: " + arrayOfNumberInput[i]);
+                    Console.WriteLine("Printing numbers: " + i);
                 }
             }
 
@@ -36,7 +36,7 @@ namespace Extra
             Console.WriteLine("Enter a number:");
             int secondNumberFromInput;
             bool checkSecondNumberFromInput = int.TryParse(Console.ReadLine(), out secondNumberFromInput);
-            int[] arrayOfSecondNumberInput = new int[] { };
+            int[] arrayOfSecondNumberInput = Array.Empty<int>();// new int[] { };
 
             if (!checkSecondNumberFromInput)
             {
@@ -46,13 +46,13 @@ namespace Extra
                     Console.WriteLine("number must be bigger than 5");
                 }
             }
-            for (int i = 0; i <= secondNumberFromInput; i++)
+            for (int i = 1; i <= secondNumberFromInput; i++)
             {
                 Array.Resize(ref arrayOfSecondNumberInput, arrayOfSecondNumberInput.Length + 1);
                 arrayOfSecondNumberInput[arrayOfSecondNumberInput.Length - 1] = i;
-                if (arrayOfSecondNumberInput[i] % 2 == 0 || arrayOfSecondNumberInput[i] % 3 == 0)
+                if (arrayOfSecondNumberInput[i - 1] % 2 == 0 || arrayOfSecondNumberInput[i - 1] % 3 == 0)
                 {
-                    Console.WriteLine("Printing numbers: " + arrayOfNumberInput[i]);
+                    Console.WriteLine("Printing numbers: " + arrayOfSecondNumberInput[i - 1]);
                 }
             }
             #endregion
@@ -69,8 +69,8 @@ namespace Extra
             int product = 1;
             while (thirdNumberFromInput != 0)
             {
-                product = product * (thirdNumberFromInput % 10);
-                thirdNumberFromInput = thirdNumberFromInput / 10;
+                product *= thirdNumberFromInput % 10;
+                thirdNumberFromInput /= 10;
             }
             Console.WriteLine("The product of the digits of number: " + thirdNumberFromInput + ", is: " + product);
             #endregion
