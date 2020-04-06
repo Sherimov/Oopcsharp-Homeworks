@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\bin\Debug\netcoreapp3.1\SEDC.Homework04.Methods.exe
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\bin\Debug\netcoreapp3.1\SEDC.Homework04.Methods.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\bin\Debug\netcoreapp3.1\SEDC.Homework04.Methods.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\bin\Debug\netcoreapp3.1\SEDC.Homework04.Methods.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\bin\Debug\netcoreapp3.1\SEDC.Homework04.Methods.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\bin\Debug\netcoreapp3.1\SEDC.Homework04.Methods.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\obj\Debug\netcoreapp3.1\SEDC.Homework04.Methods.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\obj\Debug\netcoreapp3.1\SEDC.Homework04.Methods.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\obj\Debug\netcoreapp3.1\SEDC.Homework04.Methods.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\obj\Debug\netcoreapp3.1\SEDC.Homework04.Methods.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-04\SEDC.Homework04\SEDC.Homework04.Methods\obj\Debug\netcoreapp3.1\SEDC.Homework04.Methods.pdb
