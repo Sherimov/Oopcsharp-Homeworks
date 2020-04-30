@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Homework05.FirstExercise/1.0.0": {
+        "runtime": {
+          "SEDC.Homework05.FirstExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Homework05.FirstExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

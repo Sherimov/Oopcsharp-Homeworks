@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-05\SEDC.Homework05\SEDC.Homework\bin\Debug\netcoreapp3.1\SEDC.Homework05.RacingCars.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-05\SEDC.Homework05\SEDC.Homework\bin\Debug\netcoreapp3.1\SEDC.Homework05.RacingCars.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-05\SEDC.Homework05\SEDC.Homework\bin\Debug\netcoreapp3.1\SEDC.Homework05.RacingCars.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-05\SEDC.Homework05\SEDC.Homework\obj\Debug\netcoreapp3.1\SEDC.Homework05.RacingCars.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-05\SEDC.Homework05\SEDC.Homework\obj\Debug\netcoreapp3.1\SEDC.Homework05.RacingCars.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-05\SEDC.Homework05\SEDC.Homework\obj\Debug\netcoreapp3.1\SEDC.Homework05.RacingCars.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-05\SEDC.Homework05\SEDC.Homework\obj\Debug\netcoreapp3.1\SEDC.Homework05.RacingCars.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-05\SEDC.Homework05\SEDC.Homework\obj\Debug\netcoreapp3.1\SEDC.Homework05.RacingCars.pdb

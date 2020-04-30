@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Homework05.App/1.0.0": {
+        "dependencies": {
+          "SEDC.Homework05.FirstExercise": "1.0.0",
+          "SEDC.Homework05.RacingCars": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Homework05.App.dll": {}
+        }
+      },
+      "SEDC.Homework05.FirstExercise/1.0.0": {
+        "runtime": {
+          "SEDC.Homework05.FirstExercise.dll": {}
+        }
+      },
+      "SEDC.Homework05.RacingCars/1.0.0": {
+        "runtime": {
+          "SEDC.Homework05.RacingCars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Homework05.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Homework05.FirstExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Homework05.RacingCars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
