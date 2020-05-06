@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Homework08.Collections/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SEDC.Homework08.Collections.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SEDC.Homework08.Collections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Homework08.Collections/1.0.0": {
+      "type": "project",
+      "path": "../SEDC.Homework08.Collections/SEDC.Homework08.Collections.csproj",
+      "msbuildProject": "../SEDC.Homework08.Collections/SEDC.Homework08.Collections.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SEDC.Homework08.Collections >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\C#\\Homework\\Oopcsharp-Homeworks\\Homework-08\\SEDC.Homework.08\\SEDC.Homework08.ProductDataBase\\SEDC.Homework08.ProductDataBase.csproj",
+      "projectName": "SEDC.Homework08.ProductDataBase",
+      "projectPath": "C:\\Users\\PC\\Desktop\\C#\\Homework\\Oopcsharp-Homeworks\\Homework-08\\SEDC.Homework.08\\SEDC.Homework08.ProductDataBase\\SEDC.Homework08.ProductDataBase.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\C#\\Homework\\Oopcsharp-Homeworks\\Homework-08\\SEDC.Homework.08\\SEDC.Homework08.ProductDataBase\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\PC\\Desktop\\C#\\Homework\\Oopcsharp-Homeworks\\Homework-08\\SEDC.Homework.08\\SEDC.Homework08.Collections\\SEDC.Homework08.Collections.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\C#\\Homework\\Oopcsharp-Homeworks\\Homework-08\\SEDC.Homework.08\\SEDC.Homework08.Collections\\SEDC.Homework08.Collections.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

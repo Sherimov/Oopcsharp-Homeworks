@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Homework08.App/1.0.0": {
+        "dependencies": {
+          "SEDC.Homework08.ProductDataBase": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Homework08.App.dll": {}
+        }
+      },
+      "SEDC.Homework08.Collections/1.0.0": {
+        "runtime": {
+          "SEDC.Homework08.Collections.dll": {}
+        }
+      },
+      "SEDC.Homework08.ProductDataBase/1.0.0": {
+        "dependencies": {
+          "SEDC.Homework08.Collections": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Homework08.ProductDataBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Homework08.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Homework08.Collections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Homework08.ProductDataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

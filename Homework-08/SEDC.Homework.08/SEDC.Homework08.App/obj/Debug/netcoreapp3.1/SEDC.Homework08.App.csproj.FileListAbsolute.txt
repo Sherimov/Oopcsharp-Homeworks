@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.App.exe
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.App.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.App.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.App.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.App.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.App.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.Collections.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.ProductDataBase.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.ProductDataBase.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\bin\Debug\netcoreapp3.1\SEDC.Homework08.Collections.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\obj\Debug\netcoreapp3.1\SEDC.Homework08.App.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\obj\Debug\netcoreapp3.1\SEDC.Homework08.App.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\obj\Debug\netcoreapp3.1\SEDC.Homework08.App.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\obj\Debug\netcoreapp3.1\SEDC.Homework08.App.csproj.CopyComplete
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\obj\Debug\netcoreapp3.1\SEDC.Homework08.App.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.App\obj\Debug\netcoreapp3.1\SEDC.Homework08.App.pdb

@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.Collections\bin\Debug\netcoreapp3.1\SEDC.Homework08.Collections.deps.json
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.Collections\bin\Debug\netcoreapp3.1\SEDC.Homework08.Collections.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.Collections\bin\Debug\netcoreapp3.1\SEDC.Homework08.Collections.pdb
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.Collections\obj\Debug\netcoreapp3.1\SEDC.Homework08.Collections.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.Collections\obj\Debug\netcoreapp3.1\SEDC.Homework08.Collections.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.Collections\obj\Debug\netcoreapp3.1\SEDC.Homework08.Collections.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.Collections\obj\Debug\netcoreapp3.1\SEDC.Homework08.Collections.dll
+C:\Users\PC\Desktop\C#\Homework\Oopcsharp-Homeworks\Homework-08\SEDC.Homework.08\SEDC.Homework08.Collections\obj\Debug\netcoreapp3.1\SEDC.Homework08.Collections.pdb
